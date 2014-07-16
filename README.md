@@ -1,0 +1,4 @@
+NewGitTest
+==========
+
+My first repo
